@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on UrbanSIMUL
+- 🔭 I’m currently working on UrbanSIMUL-INRAE
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Python and Angular
 - 💬 Ask me about GitHub
